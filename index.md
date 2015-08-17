@@ -9,6 +9,6 @@ title: Stephen P. Cook Github userpage
     > This is a blockquote
     > inside a list item.
     >
-    >   testing
-    >       Hello World
-    >   end % testing
+    >     testing
+    >         Hello World
+    >     end % testing
