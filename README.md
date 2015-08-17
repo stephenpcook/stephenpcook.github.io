@@ -1,2 +1,2 @@
 # stephenpcook.github.io
-Github user website
+Github user website, located [here](http://stephenpcook.github.io/).
