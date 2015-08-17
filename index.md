@@ -16,3 +16,5 @@ title: Stephen P. Cook Github userpage
 This is a normal paragraph:
 
     This is a code block.
+
+Or we can `write` some `code` commands.
