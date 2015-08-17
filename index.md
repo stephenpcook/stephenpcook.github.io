@@ -12,3 +12,7 @@ title: Stephen P. Cook Github userpage
     >     testing
     >         Hello World
     >     end % testing
+
+This is a normal paragraph:
+
+    This is a code block.
