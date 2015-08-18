@@ -20,9 +20,11 @@ This is a normal paragraph:
 Or we can `write` some `code` commands.
 
 ```MATLAB
+{% highlight MATLAB %}
 XX = linspace(0,2*pi);
 YY = zeros(size(XX));
 for ii=1:length(XX)
   YY(ii) = sin(XX(ii));
 end % for ii
+{% endhighlight %}
 ```
