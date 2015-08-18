@@ -1,6 +1,6 @@
 ---
 title: Stephen P. Cook Github userpage
-layout: page
+layout: default
 ---
 
 # Hello World
