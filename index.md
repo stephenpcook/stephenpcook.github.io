@@ -27,3 +27,6 @@ for ii=1:length(XX)
   YY(ii) = sin(XX(ii));
 end % for ii
 ```
+
+This page doesn't use the deault layout (not sure why) but Here is a link to
+[new](/new/) which does.
