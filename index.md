@@ -3,6 +3,10 @@ title: Stephen P. Cook Github userpage
 layout: default
 ---
 
+# Homepage
+
+Please visit [my homepage](http://people.bath.ac.uk/sc574/index.html).
+
 # Hello World
 
 *   A list item with a blockquote:
