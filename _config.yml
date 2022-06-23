@@ -1,2 +1,7 @@
 kramdown:
   input: GFM
+
+theme: minima
+
+header_pages:
+  - index.md
