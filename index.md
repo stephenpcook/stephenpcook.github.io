@@ -3,34 +3,29 @@ title: Stephen P. Cook Github userpage
 layout: default
 ---
 
-# Homepage
+# Dr. Stephen P Cook
 
-Please visit [my homepage](http://people.bath.ac.uk/sc574/index.html).
 
-# Hello World
+## Acoustic Engineer, [Seiche Ltd](https://www.seiche.com)
 
-*   A list item with a blockquote:
+My work mainly involves underwater acoustic modelling, predicting impacts on
+marine life, and analysing audio recordings taken within the ocean environment,
 
-    > This is a blockquote
-    > inside a list item.
-    >
-    >     testing
-    >         Hello World
-    >     end % testing
+## Education
 
-This is a normal paragraph:
+Prior to joining Seiche, I completed my PhD with the [University of Bath][bath]
+and the [UK Met Office][met-office], under the joint supervision of [Prof.Chris
+Budd][cbudd] and [Dr. Thomas Melvin][tmelvin]
 
-    This is a code block.
+## Society Membership
 
-Or we can `write` some `code` commands.
+ - Member of the [Institute of Acoustics][ioa]
+ - Member of the [Society of Research Software Engineering][society-rse]
 
-```MATLAB
-XX = linspace(0,2*pi);
-YY = zeros(size(XX));
-for ii=1:length(XX)
-  YY(ii) = sin(XX(ii));
-end % for ii
-```
+[bath]: https://www.bath.ac.uk/
+[met-office]: https://www.metoffice.gov.uk/
+[cbudd]: https://www.bath.ac.uk/~mascjb/
+[tmelvin]: https://www.metoffice.gov.uk/research/people/thomas-melvin
+[ioa]: https://www.ioa.org.uk/
+[society-rse]: https://www.society-rse.org/
 
-This page doesn't use the deault layout (not sure why) but Here is a link to
-[new](/new/) which does.
