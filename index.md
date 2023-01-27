@@ -10,6 +10,8 @@ layout: default
 In 2022 I joing the <abbr>RSE</abbr> group at [Exeter Uni][exeter].
 See my [profile at Exeter][exeter-profile].
 
+[Talk 2023](http://stephenpcook.github.io/SPC_talk_2023.pptx).
+
 ## Past Career
 
 ### Acoustic Engineer
