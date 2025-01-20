@@ -26,7 +26,6 @@ Budd][cbudd] and [Dr. Thomas Melvin][tmelvin]
 
 ## Society Membership
 
-- Member of the [Institute of Acoustics][ioa]
 - Member of the [Society of Research Software Engineering][society-rse]
 
 ## Links
@@ -38,13 +37,12 @@ Budd][cbudd] and [Dr. Thomas Melvin][tmelvin]
 
 [rse-exeter]: https://www.exeter.ac.uk/research/software-engineering/
 [exeter]: https://www.exeter.ac.uk
-[exeter-profile]: https://www.exeter.ac.uk/research/services/contact/staff/profile/index.php?web_id=Stephen_Cook
+[exeter-profile]: https://experts.exeter.ac.uk/39250-stephen-cook
 [seiche]: https://www.seiche.com/
 [bath]: https://www.bath.ac.uk/
 [met-office]: https://www.metoffice.gov.uk/
 [cbudd]: https://people.bath.ac.uk/mascjb/
 [tmelvin]: https://www.metoffice.gov.uk/research/people/thomas-melvin
-[ioa]: https://www.ioa.org.uk/
 [society-rse]: https://www.society-rse.org/
 [orcid-profile]: https://orcid.org/0000-0001-5620-8802
 [github-profile]: https://github.com/stephenpcook/
