@@ -10,7 +10,7 @@ layout: default
 As of 2025 I am working as a Research Software Engineer at the University of Bath.
 See our [group website][rse-bath].
 
-Prior to this I spent 3 years as an RSE with the [Exeter Uni RSA group][rse-exeter].
+Prior to this I spent 3 years as an RSE with the [Exeter Uni RSA group][rsa-exeter].
 
 ## Past Career
 
@@ -39,7 +39,7 @@ Budd][cbudd] and [Dr. Thomas Melvin][tmelvin]
 - [LinkedIn Profile][linkedin-profile]
 
 [rse-bath]: https://www.bath.ac.uk/campaigns/research-software-engineering/
-[rse-exeter]: https://www.exeter.ac.uk/research/software-engineering/
+[rsa-exeter]: https://www.exeter.ac.uk/research/research-software-and-analytics/
 [seiche]: https://www.seiche.com/
 [pblondel]: https://researchportal.bath.ac.uk/en/persons/philippe-blondel/
 [msoleimani]: https://researchportal.bath.ac.uk/en/persons/manuchehr-soleimani/
