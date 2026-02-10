@@ -37,6 +37,7 @@ Budd][cbudd] and [Dr. Thomas Melvin][tmelvin]
 - [ORCID iD][orcid-profile]
 - [GitHub Profile][github-profile]
 - [LinkedIn Profile][linkedin-profile]
+- [Bath Profile][bath-profile]
 
 [rse-bath]: https://www.bath.ac.uk/campaigns/research-software-engineering/
 [rsa-exeter]: https://www.exeter.ac.uk/research/research-software-and-analytics/
@@ -51,3 +52,4 @@ Budd][cbudd] and [Dr. Thomas Melvin][tmelvin]
 [orcid-profile]: https://orcid.org/0000-0001-5620-8802
 [github-profile]: https://github.com/stephenpcook/
 [linkedin-profile]: https://www.linkedin.com/in/stephen-p-cook/
+[bath-profile]: https://people.bath.ac.uk/spc67/
