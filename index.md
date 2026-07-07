@@ -5,12 +5,12 @@ layout: default
 
 # Dr. Stephen P Cook
 
-## Research Software Engineer
+## Research Software Engineer Facility Lead
 
-As of 2025 I am working as a Research Software Engineer at the University of Bath.
+As of 2026 I am the Research Software Engineer Facility Lead at the University of Bath.
 See our [group website][rse-bath].
 
-Prior to this I spent 3 years as an RSE with the [Exeter Uni RSA group][rsa-exeter].
+Prior to joining Bath I spent 3 years as an RSE with the [Exeter Uni RSA group][rsa-exeter].
 
 ## Past Career
 
