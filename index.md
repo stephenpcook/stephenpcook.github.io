@@ -46,7 +46,7 @@ Budd][cbudd] and [Dr. Thomas Melvin][tmelvin]
 [msoleimani]: https://researchportal.bath.ac.uk/en/persons/manuchehr-soleimani/
 [bath]: https://www.bath.ac.uk/
 [met-office]: https://www.metoffice.gov.uk/
-[cbudd]: https://people.bath.ac.uk/mascjb/
+[cbudd]: https://researchportal.bath.ac.uk/en/persons/chris-budd/
 [tmelvin]: https://www.metoffice.gov.uk/research/approach/our-research-staff/dynamics-research
 [society-rse]: https://www.society-rse.org/
 [orcid-profile]: https://orcid.org/0000-0001-5620-8802
