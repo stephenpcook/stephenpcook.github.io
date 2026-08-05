@@ -20,7 +20,7 @@ I worked as a <abbr title="Knowledge Transfer Partnership">KTP</abbr> Associate,
 My work mainly involved underwater acoustic modelling, predicting impacts on
 marine life, and analysing audio recordings taken within the ocean environment.
 
-The academic supervisors for the KTP were [Dr. Philippe Blondel][pblondel] and [Prof. Manuchehr Soleimani][msoleimani].
+The academic supervisors for the KTP were [Prof. Philippe Blondel][pblondel] and [Prof. Manuchehr Soleimani][msoleimani].
 
 ## Education
 
@@ -39,7 +39,7 @@ Budd][cbudd] and [Dr. Thomas Melvin][tmelvin]
 - [LinkedIn Profile][linkedin-profile]
 - [Bath Profile][bath-profile]
 
-[rse-bath]: https://www.bath.ac.uk/campaigns/research-software-engineering/
+[rse-bath]: https://www.bath.ac.uk/teams/research-software-engineering-facility-team/
 [rsa-exeter]: https://www.exeter.ac.uk/research/research-software-and-analytics/
 [seiche]: https://www.seiche.com/
 [pblondel]: https://researchportal.bath.ac.uk/en/persons/philippe-blondel/
@@ -47,9 +47,9 @@ Budd][cbudd] and [Dr. Thomas Melvin][tmelvin]
 [bath]: https://www.bath.ac.uk/
 [met-office]: https://www.metoffice.gov.uk/
 [cbudd]: https://people.bath.ac.uk/mascjb/
-[tmelvin]: https://www.metoffice.gov.uk/research/people/thomas-melvin
+[tmelvin]: https://www.metoffice.gov.uk/research/approach/our-research-staff/dynamics-research
 [society-rse]: https://www.society-rse.org/
 [orcid-profile]: https://orcid.org/0000-0001-5620-8802
 [github-profile]: https://github.com/stephenpcook/
 [linkedin-profile]: https://www.linkedin.com/in/stephen-p-cook/
-[bath-profile]: https://people.bath.ac.uk/spc67/
+[bath-profile]: https://www.bath.ac.uk/profiles/research-software-engineering-facility-lead-stephen-cook
